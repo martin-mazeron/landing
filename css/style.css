@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Kanit:wght@100&display=swap");
+
+@import url("component/container.css") ;
+
+@import url("component/avatar.css") ;
+
+@import url("component/btn-blue.css") ;
+
+@import url("component/banner.css") ;
+
+@import url("component/card.css") ;
+
+body {
+	font-family: 'Kanit', sans-serif;
+	font-size: 18px ;
+	background-color: CAF0F8 ;
+	margin: 0px ;
+
+	}
+
+h1, h2, h3{
+ font font-family: 'Abril Fatface', cursive;
+ font-weight: bolder;
+}
+
+a {
+	text-decoration: none;
+ 	font font-family: 'Abril Fatface', cursive;
+
+}
+
+div {
+	margin: 20px ;
+}
+
+p{
+	margin-bottom: 50px ;
+}
